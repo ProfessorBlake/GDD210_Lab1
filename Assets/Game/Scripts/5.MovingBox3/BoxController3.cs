@@ -1,9 +1,8 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class BoxController3 : MonoBehaviour
 {
+	//Notice these public variables can be adjusted in the inspector!
 	public Vector2 MoveVector;
 	public float SceneSize;
 
